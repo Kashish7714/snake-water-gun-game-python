@@ -10,7 +10,7 @@ I'm a second-year B.Tech student (AI & ML) and this is where my GitHub journey s
 
 I built this after learning Python basics — if/else, functions, dictionaries, and loops. Wanted to build something I could actually run and play, not just a practice exercise that sits in a folder.
 
-The code is simple and readable. No libraries, no installation, just Python.
+The code is simple and readable. No libraries, no installation, just Python. 
 
 ---
 
