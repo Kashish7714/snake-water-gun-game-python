@@ -2,7 +2,7 @@
 
 A command-line game built in Python as my first project. It works like Rock Paper Scissors but with Snake, Water, and Gun instead.
 
-I'm a second-year B.Tech student (AI & ML) and this is where my GitHub journey starts.
+I'm a second-year B.Tech student (AI & ML) and this is where my GitHub journey starts. 
 
 ---
 
